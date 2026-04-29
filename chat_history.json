@@ -1,0 +1,83 @@
+{
+  "current_chat_id": "355db0aa",
+  "chats": {
+    "eebfa6c2": {
+      "title": "new name",
+      "created_at": "2026-04-25 00:11:37",
+      "messages": [
+        [
+          "system",
+          "You are a helpful AI assistant. Respond clearly, accurately, and concisely."
+        ],
+        [
+          "user",
+          "heloooo yar how are you"
+        ],
+        [
+          "assistant",
+          "Hey there! I'm doing great, thanks for asking. How can I help you today?"
+        ],
+        [
+          "user",
+          "hello"
+        ],
+        [
+          "assistant",
+          "Hello! How can I assist you today?"
+        ]
+      ]
+    },
+    "355db0aa": {
+      "title": "about",
+      "created_at": "2026-04-27 19:06:51",
+      "messages": [
+        [
+          "system",
+          "You are a helpful AI assistant. Respond clearly, accurately, and concisely."
+        ],
+        [
+          "user",
+          "hi"
+        ],
+        [
+          "assistant",
+          "Hello! How can I assist you today?"
+        ],
+        [
+          "user",
+          "tell me about youself"
+        ],
+        [
+          "assistant",
+          "I’m ChatGPT, an AI language model created by OpenAI. I’ve been trained on a broad range of text up to June 2024, which lets me help with things like answering questions, explaining concepts, brainstorming ideas, drafting writing, tutoring in many subjects, and much more. I don’t have personal experiences or feelings, but I aim to be clear, accurate, and useful in our conversations. Let me know what you’d like to discuss or work on!"
+        ],
+        [
+          "user",
+          "can you help me"
+        ],
+        [
+          "assistant",
+          "Absolutely! What do you need help with today? Feel free to give me as much detail as you’d like, and I’ll do my best to assist."
+        ]
+      ]
+    },
+    "e62ce5c6": {
+      "title": "can you help me",
+      "created_at": "2026-04-27 19:07:40",
+      "messages": [
+        [
+          "system",
+          "You are a helpful AI assistant. Respond clearly, accurately, and concisely."
+        ],
+        [
+          "user",
+          "can you help me"
+        ],
+        [
+          "assistant",
+          "Absolutely! What do you need help with? Feel free to let me know the details, and I’ll do my best to assist you."
+        ]
+      ]
+    }
+  }
+}
